@@ -6,7 +6,10 @@
 	<groupId>com.ravindra.practice</groupId>
 	<artifactId>myfirst-web-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<modules>
+		<module>webapp</module>
+	</modules>
+	<packaging>pom</packaging>
 
 	<name>myfirst-web-app</name>
 	<description>Demo project for Spring Boot</description>

@@ -1,6 +1,6 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
-
+webapp/target/
 ### STS ###
 .apt_generated
 .classpath
@@ -25,3 +25,4 @@
 /.nb-gradle/
 .mvn/
 mvn*
+ webapp/target/
